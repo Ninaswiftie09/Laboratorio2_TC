@@ -8,7 +8,7 @@ Repositorio con la solución a los ejercicios del **Laboratorio 2** del curso de
   [https://youtu.be/EuBXUFwK3fQ]
 
 - **Ejercicio 3 – Algoritmo de Shunting Yard:**  
-  []
+  [https://youtu.be/Sh6FByOSw6w]
 
 ##  Integrantes del equipo
 
