@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Laboratorio 2 - Teoría de la Computación
 
 Repositorio con la solución a los ejercicios del **Laboratorio 2** del curso de Teoría de la Computación.
@@ -18,3 +19,4 @@ Repositorio con la solución a los ejercicios del **Laboratorio 2** del curso de
 ---
 
 > Cada ejercicio se encuentra resuelto en su respectiva rama del repositorio.
+
